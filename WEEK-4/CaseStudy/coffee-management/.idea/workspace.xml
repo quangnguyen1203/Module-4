@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="coffee-management:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a77246f-a08c-4749-9fbd-dbd522e85b15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/controller/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/formatter/CountryFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/repository/ICountryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/service/IGeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/service/country/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/service/country/ICountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/service/customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/java/com/codegym/exercise/service/customer/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/webapp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/webapp/css/sweetalert2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/webapp/css/sweetalert2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/DEMO/customer-manager/src/main/webapp/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Session/src/main/java/DemoSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/java/com/codegym/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/java/com/codegym/controller/ShoppingCartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/java/com/codegym/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/java/com/codegym/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/webapp/WEB-INF/views/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/webapp/WEB-INF/views/error.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/Shopping-cart/src/main/webapp/WEB-INF/views/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/hit-counter/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/hit-counter/src/main/java/com/codegym/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/hit-counter/src/main/java/com/codegym/controller/CounterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/hit-counter/src/main/java/com/codegym/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/hit-counter/src/main/java/com/codegym/model/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/hit-counter/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/hit-counter/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WEEK-2/Session&amp;&amp;Cookie/hit-counter/src/main/webapp/WEB-INF/views/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/customer-management.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/configuration/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/configuration/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/repository/ICustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/repository/IGeneralRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/service/ICustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/java/com/codegym/demojpa/service/IGeneralService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/webapp/WEB-INF/views/customer/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/webapp/WEB-INF/views/customer/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/webapp/WEB-INF/views/customer/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/src/main/webapp/WEB-INF/views/customer/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/configuration/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/configuration/AppInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/repository/ICustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/repository/IGeneralRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/service/ICustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/classes/com/codegym/demojpa/service/IGeneralService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/configuration/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/configuration/AppInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/model/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/repository/ICustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/repository/IGeneralRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/service/ICustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/classes/com/codegym/demojpa/service/IGeneralService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/aspectjrt-1.9.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/byte-buddy-1.10.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/dom4j-2.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/groovy-2.4.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/hibernate-core-5.4.30.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/hibernate-entitymanager-5.4.30.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/jandex-2.2.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/javassist-3.27.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/mysql-connector-java-8.0.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/protobuf-java-3.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-aop-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-beans-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-context-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-core-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-data-commons-2.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-data-jpa-2.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-expression-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-jcl-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-jdbc-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-orm-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-tx-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-web-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/spring-webmvc-5.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/thymeleaf-3.0.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/thymeleaf-expression-processor-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/thymeleaf-layout-dialect-2.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/thymeleaf-spring5-3.0.11.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/views/customer/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/views/customer/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/views/customer/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WEEK-2/JPA/customer-management/target/customer-management/WEB-INF/views/customer/list.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1usPhO5JcHtnaEqpqQuX5qX1uyj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring-mvc-coffee-management/CaseStudy/coffee-management" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Module-4\WEEK-4\CaseStudy\coffee-management\src\main\webapp" />
+      <recent name="D:\Module-4\WEEK-4\CaseStudy\coffee-management\src\main\java\com\codegym\casestudy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="coffee-management:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="09ca390f-2424-49d2-b2b8-f539cb7eb4f5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="16324" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="coffee-management:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a77246f-a08c-4749-9fbd-dbd522e85b15" name="Default Changelist" comment="" />
+      <created>1625451443367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625451443367</updated>
+      <workItem from="1625451444968" duration="5608000" />
+      <workItem from="1625457179652" duration="64000" />
+      <workItem from="1625457255262" duration="89000" />
+      <workItem from="1625457363530" duration="48000" />
+      <workItem from="1625457524312" duration="2751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
